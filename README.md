@@ -162,7 +162,7 @@ David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twit
 
 Juan Camilo Esquivel - [Github](https://github.com/cmlesquivel) / [Twitter](https://twitter.com/cmlesquivel)
 Juan Carlos Lopez - [Github](https://github.com/Juan-Bogota/) / [Twitter](https://twitter.com/jclopez100)
-
+Fortune Malaza (FortuneMal)
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
